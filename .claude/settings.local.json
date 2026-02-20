@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(\"d:\\\\alv\\\\_Work\\\\experiments\\\\Performance tests:*)",
+      "Bash(python:*)",
+      "Bash(del:*)"
+    ]
+  }
+}
